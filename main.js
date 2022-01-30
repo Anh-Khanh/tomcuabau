@@ -1,5 +1,5 @@
 const app = {
-  sum: 50,
+  sum: 5000,
   baucua: [
     {
       name: "Nai",
